@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Sea Ice research in the arctic.
-- 🌱 I’m currently learning more about earth data analytics
+- 🔭 I’m currently working on aligning Arctic Observations with societal needs.
+- Studying sea floor objects off the coast of the Carolinas.
+- 🌱 Learning more about earth data analytics
 - 😄 Pronouns: she/her
 - You can find me hiking and skiing in the rockies and on the front range
 
